@@ -13,8 +13,9 @@
 4. Inside the local repo, add the remote repo
 5. You will use git add remote origin <\ssh-key-copied>
 6. Rename the name of master to main using git -m main
-7. Pull the contents in remote using git pull origin main
-8. You can now make changes and push
+7. Set upstream to track remote changes using git branch --set-upstream-to=origin/main main
+8. Pull the contents in remote using git pull origin main
+9. You can now make changes and push
 
 ## 3. STARTING OVER FROM REMOTE
 1. Start of from remote and create a git repo
