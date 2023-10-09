@@ -30,5 +30,3 @@
 - Create branch called update-readMe-file
 - Made changes on this branch and pushed the changes
 - Merged the changes with the main branch and then deleted the branch
-
-## Hello world
